@@ -1,0 +1,49 @@
+ul {
+    font-family: "Comic Sans MS";
+}
+
+li a {
+    display: block;
+    color: #000000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #f264f4;
+    color: #FFFFFF;
+}
+
+h1 {
+    font-family: "Comic Sans MS";
+    background-color: #d405e7;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+h2 {
+    font-family: "Comic Sans MS";
+}
+
+h3 {
+    font-family: "Comic Sans MS";
+}
+
+p {
+    font-family: "Comic Sans MS";
+    font-size: 30px;
+}
+
+.contact {
+    font-family: "Comic Sans MS";
+    font-size: 15px;
+}
+
+.back {
+    background-color: #fbabef;
+}
+
+.modal-body {
+    background-color: #f264f4;
+    font-family: "Comic Sans MS";
+}

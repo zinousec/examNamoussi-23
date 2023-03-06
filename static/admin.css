@@ -1,0 +1,20 @@
+h1 {
+    font-family: "Comic Sans MS";
+    background-color: #d405e7;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+}
+
+.back {
+    background-color: #fbabef;
+}
+
+.modal-body {
+    background-color: #c51d34;
+    font-family: "Comic Sans MS";
+}
