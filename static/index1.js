@@ -1,5 +1,5 @@
 const DEFAULT_URL = 'https://edu.std-900.ist.mospolytech.ru/api';
-const API_KEY = 'cfaebacb-7240-41af-9d68-b704ddb0f4fd';
+const API_KEY = '5c379d66-04f3-44da-95ae-394eb02f2e33';
 const ON_ONE_PAGE = 10;
 const ruble = "₽";
 const alertLifetime = 5000;
